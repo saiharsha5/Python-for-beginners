@@ -1,0 +1,2 @@
+exp=list(map(int,input("Enter the expenses: ").split()))
+print(f"Day 1:{exp[0]} | Day 2: {exp[1]} | Day 3: {exp[2]} | Day 4: {exp[3]} | Day 5: {exp[4]} | Day 6: {exp[5]} | Day 7: {exp[6]} | Total:{sum(exp)} ")

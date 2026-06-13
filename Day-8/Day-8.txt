@@ -1,0 +1,54 @@
+Day-8
+
+
+run time polymorphism = method overriding
+compile time polymorphism = method over loading
+
+
+Encapsulation:
+
+	-->> it wraps up states & behaviour of entity in a single contauner & accessing using public data handler method
+
+Abstraction:
+
+	--> Hiding tbe implementation & providing the functionalities to the user
+
+Interface:
+	
+	--> It is an intermediate between the service & consumer
+
+
+
+
+Q1.) Applicant Tracking System (ATS)
+Problem Statement
+
+Build a recruitment platform that manages job openings, candidate applications, interview evaluations, and hiring decisions.
+
+Classes:
+
+Candidate
+JobOpening
+Interview
+RecruitmentManager
+
+
+
+Data Structures:
+
+List → Candidates
+Dictionary → Interview Scores
+Set → Candidate Skills
+
+
+Hints:
+
+Store candidate details and skills.
+Allow candidates to apply for multiple jobs.
+Conduct Technical and HR interview rounds.
+Calculate overall interview score.
+Shortlist candidates based on required skills and score.
+Generate final selection report.
+
+
+ 
